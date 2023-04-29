@@ -29,4 +29,3 @@ wait(1)
             sound.Parent = workspace.CurrentCamera --xd
 
             sound:Play()
-            end)
